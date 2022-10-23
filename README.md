@@ -41,9 +41,6 @@ Tools & Technologies:<br>
       <a href="https://www.adobe.com/products/premiere.html">
         <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-DE00A5.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
       </a>
-      <a href="https://www.microsoft.com/en-in/windows">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-      </a>
       <a href="https://www.riotgames.com/en">
         <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
       </a>
