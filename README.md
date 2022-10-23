@@ -47,7 +47,7 @@ Tools & Technologies:<br>
       <a href="https://www.riotgames.com/en">
         <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
       </a>
-      <a href="">
+      <a href="https://www.blender.org/">
         <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
       </a>
 </div>
