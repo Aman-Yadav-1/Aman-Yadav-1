@@ -11,7 +11,7 @@ Languages Known:<br>
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       </a>
       <a href="https://www.javascript.com/">
-        <img src="https://img.shields.io/badge/javascript-308.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/javascript-306.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
       </a>
       <a href="https://www.java.com/en/">
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -23,7 +23,7 @@ Languages Known:<br>
         <img src="https://img.shields.io/badge/django-ff1709.svg?style=for-the-badge&logo=django&logoColor=white"/>
       </a>
       <a href="https://www.mysql.com/">
-        <img src="https://img.shields.io/badge/mysql-lightblue.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mysql-52b5f7.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
       </a>
 </div>
 
@@ -61,9 +61,9 @@ Connect with me at:<br>
       <img src ="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="UpWork Badge"/>
   </a>
   <a href="https://github.com/Aman-Yadav-1">
-      <img src="https://img.shields.io/badge/github-brown.svg?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.twitter.com/AmanYadav_AY/">
+  <a href="https://www.twitter.com/AmanYadav_AY_/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">
