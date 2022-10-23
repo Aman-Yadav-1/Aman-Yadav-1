@@ -66,9 +66,13 @@ Connect with me at:<br>
   <a href="https://www.twitter.com/AmanYadav_AY_/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">
-      <img src="https://img.shields.io/badge/website-ffdd00.svg?style=for-the-badge&logo=Web&logoColor=white"/>
-  </a>
+</div>
+
+Project/Site: <br>
+<div id="site">
+      <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">
+            <img src="https://img.shields.io/badge/website-ffdd00.svg?style=for-the-badge&logo=Web&logoColor=white"/>
+      </a>
 </div>
 <!---
 Aman-Yadav-1/Aman-Yadav-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
