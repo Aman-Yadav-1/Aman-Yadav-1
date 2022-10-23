@@ -1,5 +1,5 @@
 🙋‍ Hi I'm Aman Yadav. <br>
-👀 Currently working in 4th year,I am a software developer currently looking for various opportunities.<br>
+👀 Currently in my 4th year of Bachelor's degree,I am a software developer/front-end developer currently looking for opportunities.<br>
 🤙 I have a handful range of skills that include various languages and tools.<br>
 
 Languages Known:<br>
