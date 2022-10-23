@@ -1,6 +1,6 @@
 🙋‍ Hi I'm Aman Yadav. <br>
 👀 Currently working in 4th year,I am a software developer currently looking for various opportunities.<br>
-🤙 I have a handfull range of skills that include various languages and tools.<br>
+🤙 I have a handful range of skills that include various languages and tools.<br>
 
 Languages Known:<br>
 <div id="badges-languages">
