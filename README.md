@@ -65,7 +65,7 @@ Connect with me at:<br>
   </a>
 </div>
 
-Project/Site: <br>
+Project/Site : <br>
 <div id="site">
       <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">
             <img src="https://img.shields.io/badge/website-ffdd00.svg?style=for-the-badge&logo=Web&logoColor=white"/>
