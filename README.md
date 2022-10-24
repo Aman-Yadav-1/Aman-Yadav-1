@@ -2,7 +2,7 @@
 👀 Currently in final year of Bachelor's degree,I am a software developer/front-end developer looking for opportunities.<br>
 🤙 I have a handful range of skills that include mentioned languages and tools.<br>
 
-Languages Known:<br>
+Languages Known :<br>
 <div id="badges-languages">
       <a href="https://html.com/">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -27,7 +27,7 @@ Languages Known:<br>
       </a>
 </div>
 
-Tools & Technologies:<br>
+Tools & Technologies :<br>
 <div id="badge-tools">
       <a href="https://www.jetbrains.com/idea/">
         <img src="https://img.shields.io/badge/IntelliJIDEA-E6007A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -49,7 +49,7 @@ Tools & Technologies:<br>
       </a>
 </div>
 
-Connect with me at:<br>
+Connect with me at :<br>
 <div id="badges-contact">
   <a href="https://www.linkedin.com/in/aman-yadav-ay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
