@@ -39,7 +39,7 @@ Tools & Technologies :<br>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
       </a>   
       <a href="https://www.adobe.com/products/premiere.html">
-        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-DE00A5.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-purple.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
       </a>
       <a href="https://www.riotgames.com/en">
         <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
@@ -69,6 +69,9 @@ Project/Site : <br>
 <div id="site">
       <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">
             <img src="https://img.shields.io/badge/website-ffdd00.svg?style=for-the-badge&logo=Web&logoColor=white"/>
+      </a>
+      <a href="https://portfollio.live/amanyadav">
+            <img src="https://img.shields.io/badge/portfolio site-DE00A5.svg?style=for-the-badge&logo=Web&logoColor=white"/>
       </a>
 </div>
 <!---
