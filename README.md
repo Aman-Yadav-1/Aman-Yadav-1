@@ -11,13 +11,13 @@ Languages Known :<br>
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       </a>
       <a href="https://www.javascript.com/">
-        <img src="https://img.shields.io/badge/javascript-306.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </a>
       <a href="https://www.java.com/en/">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
       </a>
       <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
       </a>
       <a href="https://www.djangoproject.com/">
         <img src="https://img.shields.io/badge/django-ff1709.svg?style=for-the-badge&logo=django&logoColor=white"/>
@@ -41,15 +41,27 @@ Tools & Technologies :<br>
       <a href="https://www.adobe.com/products/premiere.html">
         <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-purple.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
       </a>
-      <a href="https://www.riotgames.com/en">
-        <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
-      </a>
       <a href="https://www.blender.org/">
         <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
       </a>
 </div>
+<!-- My Coding Profiles -->
 
-Connect with me at :<br>
+Coding Profiles: <br>
+<div id="site">
+      <a href="https://www.hackerrank.com/am4n_yadav">
+            <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+      </a>
+      <a href="https://leetcode.com/user7304xd/">
+            <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+      </a>
+      <a href="https://auth.geeksforgeeks.org/user/amxny05wx">
+            <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+      </a>
+</div>
+
+<!-- Socials -->
+Socials :<br>
 <div id="badges-contact">
   <a href="https://www.linkedin.com/in/aman-yadav-ay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -58,14 +70,15 @@ Connect with me at :<br>
       <img src ="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="UpWork Badge"/>
   </a>
   <a href="https://github.com/Aman-Yadav-1">
-      <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/github-grey.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.twitter.com/AmanYadav_AY_/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-Project/Site : <br>
+<!-- My Project/Portfolio Websites -->
+WebSites : <br>
 <div id="site">
       <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">
             <img src="https://img.shields.io/badge/website-ffdd00.svg?style=for-the-badge&logo=Web&logoColor=white"/>
