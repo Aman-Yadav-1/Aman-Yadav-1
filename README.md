@@ -39,7 +39,7 @@ Tools & Technologies :<br>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
       </a>   
       <a href="https://www.adobe.com/products/premiere.html">
-        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-purple.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
       </a>
       <a href="https://www.blender.org/">
         <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
@@ -50,7 +50,7 @@ Tools & Technologies :<br>
 Coding Profiles: <br>
 <div id="site">
       <a href="https://www.hackerrank.com/am4n_yadav">
-            <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+            <img src="https://img.shields.io/badge/-Hackerrank-crimson?style=for-the-badge&logo=HackerRank&logoColor=white"/>
       </a>
       <a href="https://leetcode.com/user7304xd/">
             <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
@@ -67,10 +67,10 @@ Socials :<br>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~0127d88fbd1962473b">
-      <img src ="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="UpWork Badge"/>
+      <img src ="https://img.shields.io/badge/UpWork-bluegreen?style=for-the-badge&logo=Upwork&logoColor=white" alt="UpWork Badge"/>
   </a>
   <a href="https://github.com/Aman-Yadav-1">
-      <img src="https://img.shields.io/badge/github-grey.svg?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/github-brown.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.twitter.com/AmanYadav_AY_/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -78,13 +78,19 @@ Socials :<br>
 </div>
 
 <!-- My Project/Portfolio Websites -->
-WebSites : <br>
+Visit : <br>
 <div id="site">
       <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">
-            <img src="https://img.shields.io/badge/website-ffdd00.svg?style=for-the-badge&logo=Web&logoColor=white"/>
+            <img src="https://img.shields.io/badge/My Project Site-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+      </a>
+      <a href="https://linktr.ee/amxn.yadav">
+            <img src="https://img.shields.io/badge/linktree-purple?style=for-the-badge&logo=linktree&logoColor=white"/>
       </a>
       <a href="https://portfollio.live/amanyadav">
-            <img src="https://img.shields.io/badge/portfolio site-DE00A5.svg?style=for-the-badge&logo=Web&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+      </a>
+      <a href="http://shorturl.at/isEYZ">
+            <img src="https://img.shields.io/badge/Resume-white.svg?style=for-the-badge&logo=LibreOffice&logoColor=black"/>
       </a>
 </div>
 <!---
