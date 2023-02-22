@@ -89,7 +89,7 @@ Visit : <br>
       <a href="https://portfollio.live/amanyadav">
             <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
       </a>
-      <a href="https://shorturl.at/dNST5">
+      <a href="http://shorturl.at/KUVX7">
             <img src="https://img.shields.io/badge/Resume-white.svg?style=for-the-badge&logo=LibreOffice&logoColor=black"/>
       </a>
 </div>
