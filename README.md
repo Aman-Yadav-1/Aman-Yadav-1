@@ -86,7 +86,7 @@ Visit : <br>
       <a href="https://linktr.ee/amxn.yadav">
             <img src="https://img.shields.io/badge/linktree-purple?style=for-the-badge&logo=linktree&logoColor=white"/>
       </a>
-      <a href="https://portfollio.live/amanyadav">
+      <a href="https://portfolio-aman-yadav.netlify.app/">
             <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
       </a>
       <a href="https://shorturl.at/biCE4">
