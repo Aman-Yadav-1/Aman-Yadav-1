@@ -1,6 +1,6 @@
 🙋‍ Hi I'm Aman Yadav. <br>
 👀 Currently in final year of Bachelor's degree,I am a software developer/front-end developer looking for opportunities.<br>
-🤙 I have a handful range of skills that include mentioned languages and tools.<br>
+🤙 I have a handful range of skills that include mentioned languages and tools.
 
 <strong>Tech Stack</strong>:
 <div id="badges-languages">
@@ -25,7 +25,7 @@
       <a href="https://www.microsoft.com/en-us/sql-server">
             <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
       </a>
-</div><br>
+</div>
 
 <strong>Frameworks & Library:</strong>
 <div>
@@ -42,7 +42,6 @@
         <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
       </a>
 </div>
-<br>
 
 <strong>IDE & Tools</strong> :
 <div id="badge-tools">
@@ -65,7 +64,7 @@
         <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
       </a>
 </div>
-<!-- My Coding Profiles --><br>
+<!-- My Coding Profiles -->
 
 <strong>Coding Profiles</strong>: 
 <div id="site">
@@ -79,7 +78,7 @@
             <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
       </a>
 </div>
-<br>
+
 <!-- Socials -->
 <strong>Socials</strong> :
 <div id="badges-contact">
@@ -96,7 +95,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<br>
+
 <!-- My Project/Portfolio Websites -->
 <strong>Visit My</strong> : 
 <div id="site">
