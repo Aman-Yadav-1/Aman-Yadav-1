@@ -2,7 +2,7 @@
 👀 Currently in final year of Bachelor's degree,I am a software developer/front-end developer looking for opportunities.<br>
 🤙 I have a handful range of skills that include mentioned languages and tools.<br>
 
-<strong>Tech Stack</strong>:<br>
+<strong>Tech Stack</strong>:
 <div id="badges-languages">
       <a href="https://html.com/">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -27,7 +27,7 @@
       </a>
 </div><br>
 
-<strong>Frameworks & Library:</strong><br>
+<strong>Frameworks & Library:</strong>
 <div>
       <a href="https://react.dev/">
            <img src="https://img.shields.io/badge/React-lavender?style=for-the-badge&logo=react&logoColor=black"/>
@@ -44,7 +44,7 @@
 </div>
 <br>
 
-<strong>IDE & Tools</strong> :<br>
+<strong>IDE & Tools</strong> :
 <div id="badge-tools">
       <a href="https://www.jetbrains.com/idea/">
         <img src="https://img.shields.io/badge/IntelliJIDEA-E6007A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -67,7 +67,7 @@
 </div>
 <!-- My Coding Profiles --><br>
 
-<strong>Coding Profiles</strong>: <br>
+<strong>Coding Profiles</strong>: 
 <div id="site">
       <a href="https://www.hackerrank.com/am4n_yadav">
             <img src="https://img.shields.io/badge/-Hackerrank-crimson?style=for-the-badge&logo=HackerRank&logoColor=white"/>
@@ -81,7 +81,7 @@
 </div>
 <br>
 <!-- Socials -->
-<strong>Socials</strong> :<br>
+<strong>Socials</strong> :
 <div id="badges-contact">
   <a href="https://www.linkedin.com/in/aman-yadav-ay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -98,7 +98,7 @@
 </div>
 <br>
 <!-- My Project/Portfolio Websites -->
-<strong>Visit My</strong> : <br>
+<strong>Visit My</strong> : 
 <div id="site">
       <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">
             <img src="https://img.shields.io/badge/My Project Site-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
