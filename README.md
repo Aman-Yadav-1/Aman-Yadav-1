@@ -2,7 +2,7 @@
 👀 Currently in final year of Bachelor's degree,I am a software developer/front-end developer looking for opportunities.<br>
 🤙 I have a handful range of skills that include mentioned languages and tools.<br>
 
-Languages Known :<br>
+<strong>Tech Stack</strong>:<br>
 <div id="badges-languages">
       <a href="https://html.com/">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -19,22 +19,42 @@ Languages Known :<br>
       <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
       </a>
-      <a href="https://www.djangoproject.com/">
-        <img src="https://img.shields.io/badge/django-ff1709.svg?style=for-the-badge&logo=django&logoColor=white"/>
-      </a>
       <a href="https://www.mysql.com/">
         <img src="https://img.shields.io/badge/mysql-52b5f7.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
       </a>
-</div>
+      <a href="https://www.microsoft.com/en-us/sql-server">
+            <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+      </a>
+</div><br>
 
-Tools & Technologies :<br>
+<strong>Frameworks & Library:</strong><br>
+<div>
+      <a href="https://react.dev/">
+           <img src="https://img.shields.io/badge/React-lavender?style=for-the-badge&logo=react&logoColor=black"/>
+      </a>
+      <a href="https://www.djangoproject.com/">
+        <img src="https://img.shields.io/badge/django-ff1709.svg?style=for-the-badge&logo=django&logoColor=white"/>
+      </a>
+      <a href="https://firebase.google.com/">
+        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      </a>
+      <a href="https://www.apachefriends.org/">
+        <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+      </a>
+</div>
+<br>
+
+<strong>IDE & Tools</strong> :<br>
 <div id="badge-tools">
       <a href="https://www.jetbrains.com/idea/">
         <img src="https://img.shields.io/badge/IntelliJIDEA-E6007A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
       </a>
       <a href="https://code.visualstudio.com/">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
       </a>
+      <a href="https://www.eclipse.org/">
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+      </a> 
       <a href="https://github.com/">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
       </a>   
@@ -45,9 +65,9 @@ Tools & Technologies :<br>
         <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
       </a>
 </div>
-<!-- My Coding Profiles -->
+<!-- My Coding Profiles --><br>
 
-Coding Profiles: <br>
+<strong>Coding Profiles</strong>: <br>
 <div id="site">
       <a href="https://www.hackerrank.com/am4n_yadav">
             <img src="https://img.shields.io/badge/-Hackerrank-crimson?style=for-the-badge&logo=HackerRank&logoColor=white"/>
@@ -59,9 +79,9 @@ Coding Profiles: <br>
             <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
       </a>
 </div>
-
+<br>
 <!-- Socials -->
-Socials :<br>
+<strong>Socials</strong> :<br>
 <div id="badges-contact">
   <a href="https://www.linkedin.com/in/aman-yadav-ay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -76,9 +96,9 @@ Socials :<br>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<br>
 <!-- My Project/Portfolio Websites -->
-Visit : <br>
+<strong>Visit My</strong> : <br>
 <div id="site">
       <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">
             <img src="https://img.shields.io/badge/My Project Site-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
