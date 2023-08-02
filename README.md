@@ -1,7 +1,7 @@
 🙋‍ Hi I'm Aman Yadav. <br>
 👀 Currently in final year of Bachelor's degree,I am a software developer/front-end developer looking for opportunities.<br>
 
-<strong>Tech Stack</strong>:
+<strong>Tech Known</strong>:
 <div id="badges-languages">
       <a href="https://html.com/">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
