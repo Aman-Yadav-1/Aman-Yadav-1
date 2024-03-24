@@ -1,5 +1,5 @@
-🙋‍ Hi I'm Aman Yadav. <br>
-👀 Fresher with Bachelor's degree,I am a software developer/front-end developer looking for opportunities.<br>
+🙋‍ Hi Folks, I'm Aman Yadav. <br>
+👀 I am a Software Developer/Full Stack Developer looking for opportunities.<br>
 
 <strong>Tech Known</strong>:
 <div id="badges-languages">
