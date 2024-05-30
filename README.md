@@ -104,7 +104,7 @@
       <a href="https://linktr.ee/amxn.yadav">
             <img src="https://img.shields.io/badge/linktree-purple?style=for-the-badge&logo=linktree&logoColor=white"/>
       </a>
-      <a href="https://portfolio-aman-yadav.netlify.app/">
+      <a href="https://aman-yadav.vercel.app/">
             <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
       </a>
       <a href="https://shorturl.at/biCE4">
