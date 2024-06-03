@@ -1,7 +1,8 @@
-🙋‍ Hi Folks, I'm Aman Yadav. <br>
-👀 I am a Software Developer/Full Stack Developer looking for opportunities.<br>
+🙋‍ Hi Folks, I'm Aman Yadav.
 
-<strong>Tech Known</strong>:
+👀 I am a Frontend Developer/Full Stack Developer looking for opportunities.
+
+<strong>Technologies I Excel In</strong>:
 <div id="badges-languages">
       <a href="https://html.com/">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -15,34 +16,34 @@
       <a href="https://www.mongodb.com/en/">
         <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>
       </a>
-      <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-      </a>
       <a href="https://www.mysql.com/">
         <img src="https://img.shields.io/badge/mysql-52b5f7.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
       </a>
-      <a href="https://www.microsoft.com/en-us/sql-server">
-            <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+      <a href="https://nodejs.org/en/">
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
       </a>
 </div>
 
-<strong>Frameworks & Library:</strong>
+<strong>Frameworks & Libraries</strong>:
 <div>
       <a href="https://react.dev/">
            <img src="https://img.shields.io/badge/React-lavender?style=for-the-badge&logo=react&logoColor=black"/>
       </a>
-      <a href="https://www.djangoproject.com/">
-        <img src="https://img.shields.io/badge/django-ff1709.svg?style=for-the-badge&logo=django&logoColor=white"/>
+      <a href="https://nextjs.org/">
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
       </a>
-      <a href="https://firebase.google.com/">
-        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <a href="https://expressjs.com/">
+            <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
       </a>
-      <a href="https://www.apachefriends.org/">
-        <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+      <a href="https://getbootstrap.com/">
+            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+      </a>
+      <a href="https://tailwindcss.com/">
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
       </a>
 </div>
 
-<strong>IDE & Tools</strong> :
+<strong>Development Tools</strong>:
 <div id="badge-tools">
       <a href="https://www.jetbrains.com/idea/">
         <img src="https://img.shields.io/badge/IntelliJIDEA-E6007A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -56,14 +57,7 @@
       <a href="https://github.com/">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
       </a>   
-      <a href="https://www.adobe.com/products/premiere.html">
-        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-      </a>
-      <a href="https://www.blender.org/">
-        <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-      </a>
 </div>
-<!-- My Coding Profiles -->
 
 <strong>Coding Profiles</strong>: 
 <div id="site">
@@ -78,8 +72,7 @@
       </a>
 </div>
 
-<!-- Socials -->
-<strong>Socials</strong> :
+<strong>Connect With Me</strong>:
 <div id="badges-contact">
   <a href="https://www.linkedin.com/in/aman-yadav-ay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -93,10 +86,15 @@
   <a href="https://www.twitter.com/amanyadav_ay69/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.fiverr.com/users/amxnyadav">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
+  </a>
+  <a href="https://www.guru.com/freelancers/aman-yadav-ay">
+    <img src="https://img.shields.io/badge/Guru-232F3E?style=for-the-badge&logo=guru&logoColor=white" alt="Guru Badge"/>
+  </a>
 </div>
 
-<!-- My Project/Portfolio Websites -->
-<strong>Visit My</strong> : 
+<strong>Explore More</strong> : 
 <div id="site">
       <a href="https://linktr.ee/amxn.yadav">
             <img src="https://img.shields.io/badge/linktree-purple?style=for-the-badge&logo=linktree&logoColor=white"/>
@@ -104,12 +102,8 @@
       <a href="https://aman-yadav.vercel.app/">
             <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
       </a>
-      <a href="https://shorturl.at/biCE4">
+      <a href="https://tinyurl.com/c657dxby">
             <img src="https://img.shields.io/badge/Resume-white.svg?style=for-the-badge&logo=LibreOffice&logoColor=black"/>
       </a>
 </div>
-<!---
-Aman-Yadav-1/Aman-Yadav-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-;)
+
