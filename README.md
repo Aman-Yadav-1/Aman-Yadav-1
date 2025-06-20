@@ -1,6 +1,6 @@
 # 🙋‍ Hi Folks, I'm Aman Yadav
 
-👀 I am a **Frontend Developer/Full Stack Developer** with 1.5+ years of experience, seeking exciting opportunities to work on innovative projects. I specialize in building high-performance and scalable web applications.
+👀 I am a **Frontend Developer/Full Stack Developer** with 2+ years of experience, seeking exciting opportunities to work on innovative projects. I specialize in building high-performance and scalable web applications.
 
 I have worked with modern technologies like **Next.js**, **TailwindCSS**, **Firebase**, **Stripe**, **Razorpay**, and much more. I am passionate about clean code, problem-solving, and delivering quality solutions.
 
